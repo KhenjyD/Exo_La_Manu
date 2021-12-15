@@ -1,0 +1,13 @@
+C:\Users\khenk\Desktop\La Manu exo\IntroC#\boucle\exo3\bin\Debug\netcoreapp3.1\exo3.exe
+C:\Users\khenk\Desktop\La Manu exo\IntroC#\boucle\exo3\bin\Debug\netcoreapp3.1\exo3.deps.json
+C:\Users\khenk\Desktop\La Manu exo\IntroC#\boucle\exo3\bin\Debug\netcoreapp3.1\exo3.runtimeconfig.json
+C:\Users\khenk\Desktop\La Manu exo\IntroC#\boucle\exo3\bin\Debug\netcoreapp3.1\exo3.runtimeconfig.dev.json
+C:\Users\khenk\Desktop\La Manu exo\IntroC#\boucle\exo3\bin\Debug\netcoreapp3.1\exo3.dll
+C:\Users\khenk\Desktop\La Manu exo\IntroC#\boucle\exo3\bin\Debug\netcoreapp3.1\exo3.pdb
+C:\Users\khenk\Desktop\La Manu exo\IntroC#\boucle\exo3\obj\Debug\netcoreapp3.1\exo3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khenk\Desktop\La Manu exo\IntroC#\boucle\exo3\obj\Debug\netcoreapp3.1\exo3.AssemblyInfoInputs.cache
+C:\Users\khenk\Desktop\La Manu exo\IntroC#\boucle\exo3\obj\Debug\netcoreapp3.1\exo3.AssemblyInfo.cs
+C:\Users\khenk\Desktop\La Manu exo\IntroC#\boucle\exo3\obj\Debug\netcoreapp3.1\exo3.csproj.CoreCompileInputs.cache
+C:\Users\khenk\Desktop\La Manu exo\IntroC#\boucle\exo3\obj\Debug\netcoreapp3.1\exo3.dll
+C:\Users\khenk\Desktop\La Manu exo\IntroC#\boucle\exo3\obj\Debug\netcoreapp3.1\exo3.pdb
+C:\Users\khenk\Desktop\La Manu exo\IntroC#\boucle\exo3\obj\Debug\netcoreapp3.1\exo3.genruntimeconfig.cache

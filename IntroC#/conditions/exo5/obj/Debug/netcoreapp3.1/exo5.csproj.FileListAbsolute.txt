@@ -1,0 +1,13 @@
+C:\Users\khenk\Desktop\La Manu exo\IntroC#\conditions\exo5\obj\Debug\netcoreapp3.1\exo5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khenk\Desktop\La Manu exo\IntroC#\conditions\exo5\obj\Debug\netcoreapp3.1\exo5.AssemblyInfoInputs.cache
+C:\Users\khenk\Desktop\La Manu exo\IntroC#\conditions\exo5\obj\Debug\netcoreapp3.1\exo5.AssemblyInfo.cs
+C:\Users\khenk\Desktop\La Manu exo\IntroC#\conditions\exo5\obj\Debug\netcoreapp3.1\exo5.csproj.CoreCompileInputs.cache
+C:\Users\khenk\Desktop\La Manu exo\IntroC#\conditions\exo5\bin\Debug\netcoreapp3.1\exo5.exe
+C:\Users\khenk\Desktop\La Manu exo\IntroC#\conditions\exo5\bin\Debug\netcoreapp3.1\exo5.deps.json
+C:\Users\khenk\Desktop\La Manu exo\IntroC#\conditions\exo5\bin\Debug\netcoreapp3.1\exo5.runtimeconfig.json
+C:\Users\khenk\Desktop\La Manu exo\IntroC#\conditions\exo5\bin\Debug\netcoreapp3.1\exo5.runtimeconfig.dev.json
+C:\Users\khenk\Desktop\La Manu exo\IntroC#\conditions\exo5\bin\Debug\netcoreapp3.1\exo5.dll
+C:\Users\khenk\Desktop\La Manu exo\IntroC#\conditions\exo5\bin\Debug\netcoreapp3.1\exo5.pdb
+C:\Users\khenk\Desktop\La Manu exo\IntroC#\conditions\exo5\obj\Debug\netcoreapp3.1\exo5.dll
+C:\Users\khenk\Desktop\La Manu exo\IntroC#\conditions\exo5\obj\Debug\netcoreapp3.1\exo5.pdb
+C:\Users\khenk\Desktop\La Manu exo\IntroC#\conditions\exo5\obj\Debug\netcoreapp3.1\exo5.genruntimeconfig.cache

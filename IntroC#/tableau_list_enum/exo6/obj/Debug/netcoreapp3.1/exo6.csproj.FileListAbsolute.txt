@@ -1,0 +1,14 @@
+C:\Users\khenk\source\repos\exo6\obj\Debug\netcoreapp3.1\exo6.csproj.AssemblyReference.cache
+C:\Users\khenk\source\repos\exo6\obj\Debug\netcoreapp3.1\exo6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khenk\source\repos\exo6\obj\Debug\netcoreapp3.1\exo6.AssemblyInfoInputs.cache
+C:\Users\khenk\source\repos\exo6\obj\Debug\netcoreapp3.1\exo6.AssemblyInfo.cs
+C:\Users\khenk\source\repos\exo6\obj\Debug\netcoreapp3.1\exo6.csproj.CoreCompileInputs.cache
+C:\Users\khenk\source\repos\exo6\bin\Debug\netcoreapp3.1\exo6.exe
+C:\Users\khenk\source\repos\exo6\bin\Debug\netcoreapp3.1\exo6.deps.json
+C:\Users\khenk\source\repos\exo6\bin\Debug\netcoreapp3.1\exo6.runtimeconfig.json
+C:\Users\khenk\source\repos\exo6\bin\Debug\netcoreapp3.1\exo6.runtimeconfig.dev.json
+C:\Users\khenk\source\repos\exo6\bin\Debug\netcoreapp3.1\exo6.dll
+C:\Users\khenk\source\repos\exo6\bin\Debug\netcoreapp3.1\exo6.pdb
+C:\Users\khenk\source\repos\exo6\obj\Debug\netcoreapp3.1\exo6.dll
+C:\Users\khenk\source\repos\exo6\obj\Debug\netcoreapp3.1\exo6.pdb
+C:\Users\khenk\source\repos\exo6\obj\Debug\netcoreapp3.1\exo6.genruntimeconfig.cache
