@@ -1,0 +1,55 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th, td {
+    width: 120px;
+    height: 80px;
+    text-align: center;
+    font-family: 'Arima Madurai', cursive;
+}
+
+.Jour, .Heure {
+    background-color: lightgray;
+    font-weight: bolder;
+}
+
+.Yoga {
+    background-color: #009bcc;
+    color: white;
+}
+
+.Biking {
+    background-color: #96c21f;
+    color: white;
+}
+
+.Self-Defense {
+    background-color:  #e65686;
+    color: white;
+}
+
+.Boxe {
+    background-color: #d9006b;
+    color: white;
+}
+
+.Stretching {
+    background-color: #11bcaf;
+    color: white;
+}
+
+.Cardio {
+    background-color:  #7459ad;
+    color: white;
+}
+
+.Crossfit{
+    background-color: orange;
+    color: white;
+}
+
+.Pause {
+    background-image: url('../stripes.png');
+}

@@ -1,0 +1,19 @@
+.identity {
+    background-color: rgb(17, 153, 139);
+}
+
+.delivery {
+    background-color: purple;
+}
+
+.information {
+    background-color: rgb(168, 14, 79);
+}
+
+label, li {
+    font-weight: bolder;
+}
+
+form {
+    border-style: double;
+}
