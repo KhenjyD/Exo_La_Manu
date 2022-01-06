@@ -14,21 +14,57 @@
   <body>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
 
+    <!-- <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
+          <div class="carousel-inner">
+            <div class="carousel-item active">
+              <img src="./img/fuji.jpg" class="d-block w-100" alt="fuji">
+            </div>
+            <div class="carousel-item">
+              <img src="./img/onigiri.jpg" class="d-block w-100" alt="onigiri">
+            </div>
+            <div class="carousel-item">
+              <img src="./img/kabuki.jpg" class="d-block w-100" alt="kabuki">
+            </div>
+            <div class="carousel-item">
+              <img src="./img/tsushima.jpg" class="d-block w-100" alt="tsushima">
+            </div>
+          </div>
+        </div> -->
+    
     <div class="container-fluid position-relative" style="height: 100vh;">
-        <div class="row text-center">
-          <div class="col">
-            <a style="color: black" href="https://mail.google.com/">Gmail</a>
+        <nav class="navbar navbar-expand-sm navbar-light bg-primary rounded-pill">
+          <div class="container-fluid">
+            <a class="navbar-brand" href="#"><i class="bi bi-google text-white"></i></a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+              <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                <li class="nav-item">
+                  <a class="nav-link" style="color: white" href="https://mail.google.com/">Gmail</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" style="color: white" href="https://www.google.fr/imghp?hl=fr&authuser=0&ogbl">Image</a>
+                </li>
+                <li class="nav-item dropdown">
+                  <a style="color: white" class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                    Application
+                  </a>
+                  <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                    <li><a class="dropdown-item" href="https://www.youtube.com/"><i class="bi bi-youtube"></i> Youtube</a></li>
+                    <li><a class="dropdown-item" href="https://maps.google.fr/maps?hl=fr&authuser=0"><i class="bi bi-map"></i> Map</a></li>
+                    <li><a class="dropdown-item" href="https://translate.google.fr/?hl=fr&authuser=0"><i class="bi bi-translate"></i> Traduction</a></li>
+                    <li><hr class="dropdown-divider"></li>
+                    <li><a class="dropdown-item" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Je suis nul</a></li>
+                  </ul>
+                </li>
+              </ul>
+              <form class="d-flex">
+                <button class="btn btn-light">Connexion</button>
+              </form>
+            </div>
           </div>
-          <div class="col">
-            <a style="color: black" href="https://www.google.fr/imghp?hl=fr&authuser=0&ogbl">Image</a>
-          </div>
-          <div class="col">
-            Appli Google
-          </div>
-          <div class="col">
-            Compte Google
-          </div>
-        </div>
+        </nav>
 
         <div class="row text-center" style="transform: translateY(230px);">
           <div class="col">
@@ -42,7 +78,7 @@
               <span class="input-group-text" id="basic-addon1"><i class="bi bi-search"></i></span>
               <input type="text" class="form-control" aria-label="Search" aria-describedby="basic-addon1"><br>
             </div>
-            <button class="btn btn btn-outline-primary" type="submit" style="transform: translateY(20px);">Recherche Google</button>
+            <button class="btn btn btn-outline-primary" style="transform: translateY(20px);">Recherche Google</button>
           </div>
         </div>
 
