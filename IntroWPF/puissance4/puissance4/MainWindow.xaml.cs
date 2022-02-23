@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using System.Windows.Threading;
 
 namespace puissance4
 {
@@ -25,12 +26,11 @@ namespace puissance4
             InitializeComponent();
         }
 
-        private void OnKeyDown(object sender, KeyEventArgs e)
+        private void OnMouseClick (object sender, MouseEventArgs e)
         {
-            if (e.Key == Key.Enter)
-            {
-                truc.Text = "Ici c'est les cités de France norvalo !";
-            }
+            Ellipse el = (Ellipse)sender;
+            el.Fill = new SolidColorBrush(Colors.Red);
         }
+
     }
 }

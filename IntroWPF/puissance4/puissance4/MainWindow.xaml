@@ -5,9 +5,76 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:puissance4"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Canvas>
-        <TextBlock Name="truc" TextWrapping="Wrap" KeyDown="OnKeyDown" Text="TextBlock"/>
-
+        Title="Puissance 4" Height="470" Width="800">
+    <Canvas Name="myCanvas" Background="LightBlue">
+        <Grid Background="BlueViolet" Canvas.Left="190" Canvas.Top="7" ShowGridLines="True">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="60"/>
+                <ColumnDefinition Width="60"/>
+                <ColumnDefinition Width="60"/>
+                <ColumnDefinition Width="60"/>
+                <ColumnDefinition Width="60"/>
+                <ColumnDefinition Width="60"/>
+                <ColumnDefinition Width="60"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="60"/>
+                <RowDefinition Height="60"/>
+                <RowDefinition Height="60"/>
+                <RowDefinition Height="60"/>
+                <RowDefinition Height="60"/>
+                <RowDefinition Height="60"/>
+                <RowDefinition Height="60"/>
+            </Grid.RowDefinitions>
+            <Ellipse Name="case1_1" MouseDown="OnMouseClick" Height="50" Fill="White" Width="50" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="0" Grid.Column="0"/>
+            <Ellipse Name="case1_2" MouseDown="OnMouseClick" Height="50" Fill="White" Width="50" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="0" Grid.Column="1"/>
+            <Ellipse Name="case1_3" MouseDown="OnMouseClick" Height="50" Fill="White" Width="50" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="0" Grid.Column="2"/>
+            <Ellipse Name="case1_4" MouseDown="OnMouseClick" Height="50" Fill="White" Width="50" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="0" Grid.Column="3"/>
+            <Ellipse Name="case1_5" MouseDown="OnMouseClick" Height="50" Fill="White" Width="50" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="0" Grid.Column="4"/>
+            <Ellipse Name="case1_6" MouseDown="OnMouseClick" Height="50" Fill="White" Width="50" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="0" Grid.Column="5"/>
+            <Ellipse Name="case1_7" MouseDown="OnMouseClick" Height="50" Fill="White" Width="50" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="0" Grid.Column="6"/>
+            <Ellipse Name="case2_1" MouseDown="OnMouseClick" Height="50" Fill="White" Width="50" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="1" Grid.Column="0"/>
+            <Ellipse Name="case2_2" MouseDown="OnMouseClick" Height="50" Fill="White" Width="50" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="1" Grid.Column="1"/>
+            <Ellipse Name="case2_3" MouseDown="OnMouseClick" Height="50" Fill="White" Width="50" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="1" Grid.Column="2"/>
+            <Ellipse Name="case2_4" MouseDown="OnMouseClick" Height="50" Fill="White" Width="50" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="1" Grid.Column="3"/>
+            <Ellipse Name="case2_5" MouseDown="OnMouseClick" Height="50" Fill="White" Width="50" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="1" Grid.Column="4"/>
+            <Ellipse Name="case2_6" MouseDown="OnMouseClick" Height="50" Fill="White" Width="50" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="1" Grid.Column="5"/>
+            <Ellipse Name="case2_7" MouseDown="OnMouseClick" Height="50" Fill="White" Width="50" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="1" Grid.Column="6"/>
+            <Ellipse Name="case3_1" MouseDown="OnMouseClick" Height="50" Fill="White" Width="50" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="2" Grid.Column="0"/>
+            <Ellipse Name="case3_2" MouseDown="OnMouseClick" Height="50" Fill="White" Width="50" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="2" Grid.Column="1"/>
+            <Ellipse Name="case3_3" MouseDown="OnMouseClick" Height="50" Fill="White" Width="50" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="2" Grid.Column="2"/>
+            <Ellipse Name="case3_4" MouseDown="OnMouseClick" Height="50" Fill="White" Width="50" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="2" Grid.Column="3"/>
+            <Ellipse Name="case3_5" MouseDown="OnMouseClick" Height="50" Fill="White" Width="50" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="2" Grid.Column="4"/>
+            <Ellipse Name="case3_6" MouseDown="OnMouseClick" Height="50" Fill="White" Width="50" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="2" Grid.Column="5"/>
+            <Ellipse Name="case3_7" MouseDown="OnMouseClick" Height="50" Fill="White" Width="50" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="2" Grid.Column="6"/>
+            <Ellipse Name="case4_1" MouseDown="OnMouseClick" Height="50" Fill="White" Width="50" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="3" Grid.Column="0"/>
+            <Ellipse Name="case4_2" MouseDown="OnMouseClick" Height="50" Fill="White" Width="50" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="3" Grid.Column="1"/>
+            <Ellipse Name="case4_3" MouseDown="OnMouseClick" Height="50" Fill="White" Width="50" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="3" Grid.Column="2"/>
+            <Ellipse Name="case4_4" MouseDown="OnMouseClick" Height="50" Fill="White" Width="50" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="3" Grid.Column="3"/>
+            <Ellipse Name="case4_5" MouseDown="OnMouseClick" Height="50" Fill="White" Width="50" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="3" Grid.Column="4"/>
+            <Ellipse Name="case4_6" MouseDown="OnMouseClick" Height="50" Fill="White" Width="50" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="3" Grid.Column="5"/>
+            <Ellipse Name="case4_7" MouseDown="OnMouseClick" Height="50" Fill="White" Width="50" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="3" Grid.Column="6"/>
+            <Ellipse Name="case5_1" MouseDown="OnMouseClick" Height="50" Fill="White" Width="50" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="4" Grid.Column="0"/>
+            <Ellipse Name="case5_2" MouseDown="OnMouseClick" Height="50" Fill="White" Width="50" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="4" Grid.Column="1"/>
+            <Ellipse Name="case5_3" MouseDown="OnMouseClick" Height="50" Fill="White" Width="50" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="4" Grid.Column="2"/>
+            <Ellipse Name="case5_4" MouseDown="OnMouseClick" Height="50" Fill="White" Width="50" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="4" Grid.Column="3"/>
+            <Ellipse Name="case5_5" MouseDown="OnMouseClick" Height="50" Fill="White" Width="50" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="4" Grid.Column="4"/>
+            <Ellipse Name="case5_6" MouseDown="OnMouseClick" Height="50" Fill="White" Width="50" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="4" Grid.Column="5"/>
+            <Ellipse Name="case5_7" MouseDown="OnMouseClick" Height="50" Fill="White" Width="50" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="4" Grid.Column="6"/>
+            <Ellipse Name="case6_1" MouseDown="OnMouseClick" Height="50" Fill="White" Width="50" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="5" Grid.Column="0"/>
+            <Ellipse Name="case6_2" MouseDown="OnMouseClick" Height="50" Fill="White" Width="50" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="5" Grid.Column="1"/>
+            <Ellipse Name="case6_3" MouseDown="OnMouseClick" Height="50" Fill="White" Width="50" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="5" Grid.Column="2"/>
+            <Ellipse Name="case6_4" MouseDown="OnMouseClick" Height="50" Fill="White" Width="50" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="5" Grid.Column="3"/>
+            <Ellipse Name="case6_5" MouseDown="OnMouseClick" Height="50" Fill="White" Width="50" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="5" Grid.Column="4"/>
+            <Ellipse Name="case6_6" MouseDown="OnMouseClick" Height="50" Fill="White" Width="50" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="5" Grid.Column="5"/>
+            <Ellipse Name="case6_7" MouseDown="OnMouseClick" Height="50" Fill="White" Width="50" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="5" Grid.Column="6"/>
+            <Ellipse Name="case7_1" MouseDown="OnMouseClick" Height="50" Fill="White" Width="50" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="6" Grid.Column="0"/>
+            <Ellipse Name="case7_2" MouseDown="OnMouseClick" Height="50" Fill="White" Width="50" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="6" Grid.Column="1"/>
+            <Ellipse Name="case7_3" MouseDown="OnMouseClick" Height="50" Fill="White" Width="50" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="6" Grid.Column="2"/>
+            <Ellipse Name="case7_4" MouseDown="OnMouseClick" Height="50" Fill="White" Width="50" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="6" Grid.Column="3"/>
+            <Ellipse Name="case7_5" MouseDown="OnMouseClick" Height="50" Fill="White" Width="50" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="6" Grid.Column="4"/>
+            <Ellipse Name="case7_6" MouseDown="OnMouseClick" Height="50" Fill="White" Width="50" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="6" Grid.Column="5"/>
+            <Ellipse Name="case7_7" MouseDown="OnMouseClick" Height="50" Fill="White" Width="50" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="6" Grid.Column="6"/>
+        </Grid>
     </Canvas>
 </Window>
