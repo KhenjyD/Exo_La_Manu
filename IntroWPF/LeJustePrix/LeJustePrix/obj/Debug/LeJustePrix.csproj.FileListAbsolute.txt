@@ -1,0 +1,16 @@
+C:\Users\khenk\Desktop\La Manu exo\IntroWPF\LeJustePrix\LeJustePrix\bin\Debug\LeJustePrix.exe.config
+C:\Users\khenk\Desktop\La Manu exo\IntroWPF\LeJustePrix\LeJustePrix\bin\Debug\LeJustePrix.exe
+C:\Users\khenk\Desktop\La Manu exo\IntroWPF\LeJustePrix\LeJustePrix\bin\Debug\LeJustePrix.pdb
+C:\Users\khenk\Desktop\La Manu exo\IntroWPF\LeJustePrix\LeJustePrix\obj\Debug\LeJustePrix.csproj.AssemblyReference.cache
+C:\Users\khenk\Desktop\La Manu exo\IntroWPF\LeJustePrix\LeJustePrix\obj\Debug\LeJustePrix.csproj.SuggestedBindingRedirects.cache
+C:\Users\khenk\Desktop\La Manu exo\IntroWPF\LeJustePrix\LeJustePrix\obj\Debug\MainWindow.g.cs
+C:\Users\khenk\Desktop\La Manu exo\IntroWPF\LeJustePrix\LeJustePrix\obj\Debug\App.g.cs
+C:\Users\khenk\Desktop\La Manu exo\IntroWPF\LeJustePrix\LeJustePrix\obj\Debug\LeJustePrix_MarkupCompile.cache
+C:\Users\khenk\Desktop\La Manu exo\IntroWPF\LeJustePrix\LeJustePrix\obj\Debug\LeJustePrix_MarkupCompile.lref
+C:\Users\khenk\Desktop\La Manu exo\IntroWPF\LeJustePrix\LeJustePrix\obj\Debug\MainWindow.baml
+C:\Users\khenk\Desktop\La Manu exo\IntroWPF\LeJustePrix\LeJustePrix\obj\Debug\LeJustePrix.g.resources
+C:\Users\khenk\Desktop\La Manu exo\IntroWPF\LeJustePrix\LeJustePrix\obj\Debug\LeJustePrix.Properties.Resources.resources
+C:\Users\khenk\Desktop\La Manu exo\IntroWPF\LeJustePrix\LeJustePrix\obj\Debug\LeJustePrix.csproj.GenerateResource.cache
+C:\Users\khenk\Desktop\La Manu exo\IntroWPF\LeJustePrix\LeJustePrix\obj\Debug\LeJustePrix.csproj.CoreCompileInputs.cache
+C:\Users\khenk\Desktop\La Manu exo\IntroWPF\LeJustePrix\LeJustePrix\obj\Debug\LeJustePrix.exe
+C:\Users\khenk\Desktop\La Manu exo\IntroWPF\LeJustePrix\LeJustePrix\obj\Debug\LeJustePrix.pdb

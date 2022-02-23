@@ -1,0 +1,16 @@
+C:\Users\khenk\Desktop\La Manu exo\IntroWPF\Shifumi\Shifumi\obj\Debug\Shifumi.csproj.AssemblyReference.cache
+C:\Users\khenk\Desktop\La Manu exo\IntroWPF\Shifumi\Shifumi\obj\Debug\Shifumi.csproj.SuggestedBindingRedirects.cache
+C:\Users\khenk\Desktop\La Manu exo\IntroWPF\Shifumi\Shifumi\obj\Debug\MainWindow.g.cs
+C:\Users\khenk\Desktop\La Manu exo\IntroWPF\Shifumi\Shifumi\obj\Debug\App.g.cs
+C:\Users\khenk\Desktop\La Manu exo\IntroWPF\Shifumi\Shifumi\obj\Debug\Shifumi_MarkupCompile.cache
+C:\Users\khenk\Desktop\La Manu exo\IntroWPF\Shifumi\Shifumi\obj\Debug\Shifumi_MarkupCompile.lref
+C:\Users\khenk\Desktop\La Manu exo\IntroWPF\Shifumi\Shifumi\bin\Debug\Shifumi.exe.config
+C:\Users\khenk\Desktop\La Manu exo\IntroWPF\Shifumi\Shifumi\bin\Debug\Shifumi.exe
+C:\Users\khenk\Desktop\La Manu exo\IntroWPF\Shifumi\Shifumi\bin\Debug\Shifumi.pdb
+C:\Users\khenk\Desktop\La Manu exo\IntroWPF\Shifumi\Shifumi\obj\Debug\MainWindow.baml
+C:\Users\khenk\Desktop\La Manu exo\IntroWPF\Shifumi\Shifumi\obj\Debug\Shifumi.g.resources
+C:\Users\khenk\Desktop\La Manu exo\IntroWPF\Shifumi\Shifumi\obj\Debug\Shifumi.Properties.Resources.resources
+C:\Users\khenk\Desktop\La Manu exo\IntroWPF\Shifumi\Shifumi\obj\Debug\Shifumi.csproj.GenerateResource.cache
+C:\Users\khenk\Desktop\La Manu exo\IntroWPF\Shifumi\Shifumi\obj\Debug\Shifumi.csproj.CoreCompileInputs.cache
+C:\Users\khenk\Desktop\La Manu exo\IntroWPF\Shifumi\Shifumi\obj\Debug\Shifumi.exe
+C:\Users\khenk\Desktop\La Manu exo\IntroWPF\Shifumi\Shifumi\obj\Debug\Shifumi.pdb
